@@ -1,0 +1,16 @@
+body {
+  background: #8e44ad;
+}
+div {
+  width: 300px;
+  height: 200px;
+}
+.red {
+  background: #e74c3c;
+}
+.yellow {
+  background: #f1c40f;
+}
+.blue {
+  background: #2980b9;
+}
